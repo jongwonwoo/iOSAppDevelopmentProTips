@@ -1,4 +1,4 @@
-# Pro Tips fof iOS App Development
+# Pro Tips for iOS App Development
 
 ## Memory Leaks
 
